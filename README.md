@@ -1,6 +1,8 @@
 # Bayesian analysis of the COVID-19 pandemic
 
-Bayesian analysis of COVID-19 case time-series for individual regions using a simulation based model and Approximate Bayesian Computation (ABC) using adaptive sequential Monte Carlo.
+Bayesian analysis of COVID-19 case time-series for individual regions using a simulation based model and Approximate Bayesian Computation (ABC) using adaptive sequential Monte Carlo. 
+
+To accompany the paper DJ Warne, A Ebert, D Drovandi, W Hu, A Mira, K Mengersen (2020) ``Hindsight is 2020 vision: a characterisation of the global response to the COVID-19 pandemic'' (link TBA)
 
 ## Authors
 
