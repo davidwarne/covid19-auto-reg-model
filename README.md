@@ -54,3 +54,6 @@ use `iso_id = 'CHN'` or for Italy use `iso_id = 'ITA'`.
 3. If required, edit the SMC parameters, defaults are quite reasonable for the moment. Please contact the authors if there are any difficulties editing these.
 4. Run the main script `run_smc_intensity_reg`. This may take a while to run. Currently, the code is not parallelised to ensure reproducibility (RNG in parallel are not reproducible). If Parallel SMC is desired, then edit `run_smc_intensity_reg.m` to utilise `smc_abc_rw_par.m`.
 5. To run on a HPC cluster use the script `submit_all.sh` shell script. WARNING: due to differences in HPC cluster management across institutions, this script will require modification.
+
+## Acknowledgement
+The development of this model and software was supported by  School of Mathematical Sciences at QUT, the Centre for Data Science at QUT, and the ARC Centre of Excellend for Mathematical and Statistical Frontiers (ACEMS). 
